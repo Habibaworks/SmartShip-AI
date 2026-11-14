@@ -8,7 +8,7 @@ Built as **Machine Learning Final Project — Project 01** using the **Olist Bra
 
 ## Live Application
 
-**Streamlit App: [Try SmartShip AI](https://smartship-ai-delivery-risk.streamlit.app/)  
+**Streamlit App**: [Try SmartShip AI](https://smartship-ai-delivery-risk.streamlit.app/)  
 
 ## Project Overview
 
